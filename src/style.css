@@ -1,0 +1,13 @@
+/* For the folded state */
+@media (max-width: 280px) {
+    .folded-content {
+        font-size: 12px;
+    }    
+}
+  
+  /* For the unfolded state */
+@media (min-width: 281px) {
+    .unfolded-content {
+        font-size: 20px;
+    }
+}
